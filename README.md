@@ -21,13 +21,3 @@
 ## 📌 SEO Uyumlu Açıklama
 
 Selçuk Sports canlı maç izle seçeneğiyle spor heyecanını kaçırmayın. Süper Lig, Şampiyonlar Ligi ve Avrupa futbolunun önde gelen karşılaşmalarını kesintisiz izleyin. Mobil ve masaüstü uyumlu altyapısıyla her yerden erişim sağlayın. **Selçuk Sports canlı maç izle**, ücretsiz ve HD kalitesinde yayın arayanlar için ideal bir tercihtir.
-
-## 🔧 Kurulum ve Kullanım (Opsiyonel)
-
-> Bu bölüm sadece teknik kullanıcılar için örnek niteliğindedir.
-
-```bash
-# Bu bir örnektir, canlı maç yayınları teknik kurulum gerektirmez.
-git clone https://github.com/kullaniciadi/selcuksports-canli.git
-cd selcuksports-canli
-open index.html
